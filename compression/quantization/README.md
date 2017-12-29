@@ -23,5 +23,13 @@ result_quantized_value = result_zero_point +
 ### Description: 
 https://github.com/google/gemmlowp/blob/master/doc/quantization.md
 ### Implementation code:
+https://github.com/tensorflow/tensorflow/tree/master/tensorflow/tools/graph_transforms
+https://github.com/tensorflow/tensorflow/tree/master/tensorflow/core/kernels
+
 https://github.com/google/gemmlowp
 https://github.com/google/gemmlowp/blob/master/doc/quantization_example.cc
+
+### Quantized model:
+![image](https://github.com/shengweigit/notebook/blob/master/compression/quantization/png/quantized_vgg_16.png)
+
+### Experiment results:
