@@ -30,6 +30,7 @@ https://github.com/google/gemmlowp
 https://github.com/google/gemmlowp/blob/master/doc/quantization_example.cc
 
 ### Quantized model:
-![image](https://github.com/shengweigit/notebook/blob/master/compression/quantization/png/quantized_vgg_16.png)
+#### quantized conv2d
+![image](https://github.com/shengweigit/notebook/blob/master/compression/quantization/png/quantized_conv2d.png)
 
 ### Experiment results:
