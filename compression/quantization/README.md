@@ -30,7 +30,22 @@ https://github.com/google/gemmlowp
 https://github.com/google/gemmlowp/blob/master/doc/quantization_example.cc
 
 ### Quantized model:
+#### quantized input
+![image](https://github.com/shengweigit/notebook/blob/master/compression/quantization/png/quantized_input.png)
+
 #### quantized conv2d
 ![image](https://github.com/shengweigit/notebook/blob/master/compression/quantization/png/quantized_conv2d.png)
+
+#### quantized bias
+![image](https://github.com/shengweigit/notebook/blob/master/compression/quantization/png/quantized_bias.png)
+
+#### quantized add bias
+![image](https://github.com/shengweigit/notebook/blob/master/compression/quantization/png/quantized_bias_add.png)
+
+#### quantized relu
+![image](https://github.com/shengweigit/notebook/blob/master/compression/quantization/png/quantized_relu.png)
+
+#### quantized maxpool
+![image](https://github.com/shengweigit/notebook/blob/master/compression/quantization/png/quantized_maxpool.png)
 
 ### Experiment results:
